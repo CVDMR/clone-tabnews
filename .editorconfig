@@ -1,5 +1,5 @@
 root = true
 
-[*]
+[*] #indica que todos os arquivos sao afetados pelas regras abaixo
 indent_style = space
 indent_size = 2
